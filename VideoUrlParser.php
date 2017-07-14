@@ -2,11 +2,9 @@
 /**
  * Video Parser
  *
- * @package
- * @version 1.3
- * @copyright 2005-2011 HDJ.ME
- * @author Dijia Huang <huangdijia@gmail.com>
- * @license PHP Version 3.0 {@link http://www.php.net/license/3_0.txt}
+ *
+ * @author https://github.com/callmeheng       
+
  *
  * Usage
  * require_once "VideoUrlParser.class.php";
